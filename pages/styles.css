@@ -44,6 +44,10 @@ body {
     position: relative;
     width: auto;
     gap: 64px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 
 .header {    
