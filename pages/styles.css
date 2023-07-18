@@ -46,6 +46,7 @@ body {
     display: flex;
     flex-direction: column;
     width: 100%;
+    align-items: center;
     color: #0e0808
 }
 
