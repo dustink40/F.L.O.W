@@ -17,7 +17,7 @@ body {
     display: flex;
     place-content: center flex-start;
     align-items: center;
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(9, 241, 60);
     flex-flow: column nowrap;
     gap: 10px;
     height: 100vh;
@@ -46,7 +46,7 @@ body {
     display: flex;
     flex-direction: column;
     width: 100%;
-    color: #FFF
+    color: #0e0808
 }
 
 .header-title {
@@ -55,7 +55,7 @@ body {
 }
 
 .header-title h1 {
-    text-shadow: 15px 15px 12px red;
+    text-shadow: 15px 15px 12px rgb(86, 3, 196);
     width: 100%;
     font-weight: 700;
     font-size: 72px;
@@ -72,7 +72,7 @@ body {
     font-style: normal;
     font-weight: 400;
     line-height: 1.4em;
-    color: rgba(255, 255, 255, 0.75);
+    color: rgba(182, 9, 9, 0.048);
 }
 
 .prompt-container {
