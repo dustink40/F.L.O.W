@@ -11,6 +11,10 @@ body {
     width: 300px;
     height: 300px;
     color: white;
+    border-bottom: #0e0808;
+    border-radius: 10px;
+    border-left: #0e0808;
+    border-width: 10px;
 }
 
 .root {
