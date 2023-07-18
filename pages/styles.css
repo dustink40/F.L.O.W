@@ -49,14 +49,12 @@ body {
     display: flex;
     flex-direction: column;
     width: 100%;
-    align-items: flex-start;
     color: #FFF
 }
 
 .header-title {
     display: flex;
     gap: 12px;
-    align-items: center;
 }
 
 .header-title h1 {
